@@ -14,7 +14,7 @@ https://hamk-ai-bmi-calculator-2026.vercel.app/
 
 
 
-![alt text](public/screenshot.png)
+![BMI Calculator Screenshot](screenshot.png)
 
 
 ###Features
